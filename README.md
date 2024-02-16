@@ -1,1 +1,1 @@
-print
+coimbatore university
